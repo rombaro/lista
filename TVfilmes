@@ -1,0 +1,10 @@
+ #EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="" 
+http://cdn.widestream.io:8080/hls/maus2nt.m3u8?s=wimWUj2K3B8zH2pY0oDkhA&e=1535838318
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/05/0688659.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="Tomb Raider a Origem"
+http://network.vstreaming.net/movies/tombraiderorigem-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/05/2019826.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="Vingadores: Guerra Infinita"
+http://network.vstreaming.net/movies/avengers2new-dub-1080p.mp4
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/11/images-204x300.jpg" group-title="A Torre Negra"
+http://network.vstreaming.net/movies/atorrenegra-dub-720p.mp4
