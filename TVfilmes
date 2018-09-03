@@ -43,7 +43,9 @@ http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w1126142250.m3u8
 http://network.vstreaming.net/movies/anjosnoitesangue-dub-720p.mp4
  
 #EXTINF:-1 tvg-logo="https://filmesonlinehd1.net/wp-content/uploads/2018/08/wKugroGel7UUnM83Kcrn2afPTYB-1-185x278.jpg",No olho do furaçao
-https://www3760.playercdn.net/187/3/tcnKeWvsx9pCfL5TxZnnNQ/1536016950/180829/T33uV5WO2KKuMDK.mp4
+https://www3760.playercdn.net/187/3/tcnKeWvsx9pCfL5TxZnnNQ/1536016950/180829/T33uV5WO2KKuMDK.mp4   
+#EXTINF:-1 tvg-logo="https://curtaiptv.top/BpbSe" group-title="LANÇAMENTO" ,OS INCRIVEIS 2
+http://network.vstreaming.net/movies/osincriveis2-dub-480p.mp4
 #EXTINF:-1 tvg-logo="" group-title="" 
 #EXTINF:-1 tvg-logo="" group-title=""
 #EXTINF:-1 tvg-logo="" group-title="" 
