@@ -1,14 +1,55 @@
  #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="" 
-http://cdn.widestream.io:8080/hls/maus2nt.m3u8?s=wimWUj2K3B8zH2pY0oDkhA&e=1535838318
-#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/05/0688659.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="fILMES",Tomb Raider a Origem
+#EXTINF:-1 tvg-logo="" group-title="Filmes",Jogador Nº1
+http://network.vstreaming.net/movies/jogadornumeroum-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/05/0688659.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="Filmes",Tomb Raider a Origem
 http://network.vstreaming.net/movies/tombraiderorigem-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/05/2019826.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="fILMES",Vingadores: Guerra Infinita
+
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/05/2019826.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="Filmes",Vingadores: Guerra Infinita
 http://network.vstreaming.net/movies/avengers2new-dub-1080p.mp4
-#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/11/images-204x300.jpg" group-title="fILMES"A Torre Negra
+
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/11/images-204x300.jpg" group-title="Filmes",A Torre Negra
 http://network.vstreaming.net/movies/atorrenegra-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/06/580546-203x300.jpg" group-title="fILMES",Mulher Maravilha
+
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/06/580546-203x300.jpg" group-title="Filmes",Mulher Maravilha
 http://network.vstreaming.net/movies/mulhermaravilha-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/07/506199-205x300.jpg" group-title="fILMES", Até o Fim 
+
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2017/07/506199-205x300.jpg" group-title="Filmes",Até o Fim 
 http://network.vstreaming.net/movies/ateofim-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/02/images-10-200x300.jpg" group-title="Filmes",A Forma da Água
+http://network.vstreaming.net/movies/aformadaagua-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/04/images-33-210x300.jpg" group-title="Filmes",12 Heróis 
+http://network.vstreaming.net/movies/12strong-dub-1080p.mp4
+
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/04/p14365734_p_v8_aa-200x300.jpg" group-title="Filmes",The Titan
+http://network.vstreaming.net/movies/thetitan-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/03/images-204x300.jpg" group-title="Filmes", Jumanji: Bem-vindo à Selva
+http://network.vstreaming.net/movies/jumanji-dub-1080p.mp4
+
+#EXTINF:-1 tvg-logo="" group-title=""
+
+#EXTINF:-1 tvg-logo="" group-title="" 
+
+#EXTINF:-1 tvg-logo="" group-title=""
+
+#EXTINF:-1 tvg-logo="" group-title="" 
+#EXTINF:-1 tvg-logo="" group-title=""
+#EXTINF:-1 tvg-logo="" group-title="" 
+#EXTINF:-1 tvg-logo="" group-title=""
+#EXTINF:-1 tvg-logo="" group-title="" 
+#EXTINF:-1 tvg-logo="" group-title=""
+#EXTINF:-1 tvg-logo="" group-title="" 
+#EXTINF:-1 tvg-logo="" group-title=""
+#EXTINF:-1 tvg-logo="" group-title="" 
+#EXTINF:-1 tvg-logo="" group-title=""
+#EXTINF:-1 tvg-logo="" group-title="" 
+#EXTINF:-1 tvg-logo="" group-title=""
+#EXTINF:-1 tvg-logo="" group-title="" 
+#EXTINF:-1 tvg-logo="" group-title=""
+#EXTINF:-1 tvg-logo="" group-title="" 
+#EXTINF:-1 tvg-logo="" group-title=""
+#EXTINF:-1 tvg-logo="" group-title="" 
