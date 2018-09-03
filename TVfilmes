@@ -48,6 +48,19 @@ https://www3760.playercdn.net/187/3/tcnKeWvsx9pCfL5TxZnnNQ/1536016950/180829/T33
 http://network.vstreaming.net/movies/osincriveis2-dub-480p.mp4
 #EXTINF:-1 tvg-logo="" group-title="ESPORTES",Esporte Interativo
 http://apk2.futeboltvgratis.com:8081/live/8/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Fox Sports
+http://apk2.futeboltvgratis.com:8081/live/4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv premiere
+http://apk2.futeboltvgratis.com#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sports 2
+http://apk2.futeboltvgratis.com:8081/live/15/chunks.m3u8:8081/live/20/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Fox Sportv 2
+http://apk2.futeboltvgratis.com:8081/live/5/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN BRAZIL
+http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN+
+http://apk2.futeboltvgratis.com:8081/live/3/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="" 
 #EXTINF:-1 tvg-logo="" group-title=""
 #EXTINF:-1 tvg-logo="" group-title="" 
