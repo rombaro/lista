@@ -61,11 +61,22 @@ http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
 http://apk2.futeboltvgratis.com:8081/live/3/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png" group-title="PORTUGAL",CARTOON NETWORK (Copyright © 2018 by TeamBlue)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png" group-title="PORTUGAL",CARTOON NETWORK 
+(Copyright © 2018 by TeamBlue)
 http://cdntraffice.com:80/live/balmer6m/d39faA672/5554.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title=""
+#EXTINF:-1 tvg-logo="http://www.filmezando.com/wp-content/uploads/2018/06/3938254.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="Filmes",Os Farofeiros
+http://network.vstreaming.net/movies/osfarofeiros-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://s3-sa-east-1.amazonaws.com/peperi/circulofogo23janeiro-5a73593c25c5e.jpg" group-title="Filmes" pltv-subgroup="LANÇAMENTOS 2018", Círculo de Fogo: A Revolta - 2018 Dublado
+http://network.vstreaming.net/movies/pacificrimnovo-dub1080p.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.assistirfilmeshd.me/timthumb.php?src=http://1.bp.blogspot.com/-ako3fH0bEW4/UcxKGCH6g_I/AAAAAAAAQrg/INAkaZFzeP0/s351/DIA+DE+TREINAMENTO.jpg&h=284&w=200" group-title="Filmes",Dia de trenamento
+https://oqbki2.oloadcdn.net/dl/l/6_6pnla9tog2VwXw/IWAkvhvUFLY/Dia.De.Treinamento.2001.720p.BRrip.Dub.mkv.mp4?mime=true
+
+
 #EXTINF:-1 tvg-logo="" group-title="" 
 #EXTINF:-1 tvg-logo="" group-title=""
 #EXTINF:-1 tvg-logo="" group-title="" 
