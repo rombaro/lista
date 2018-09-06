@@ -77,7 +77,7 @@ http://network.vstreaming.net/movies/pacificrimnovo-dub1080p.mp4
 https://oqbki2.oloadcdn.net/dl/l/6_6pnla9tog2VwXw/IWAkvhvUFLY/Dia.De.Treinamento.2001.720p.BRrip.Dub.mkv.mp4?mime=true
 
 
-#EXTINF:-1 tvg-logo="" group-title="Tv"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png" group-title="Tv",cartoo
 http://cdn.widestream.io:8080/hls/maus2nt.m3u8?s=Z1Unpwa8w7NEUOxhd4THAg&e=1536279907
 #EXTINF:-1 tvg-logo="" group-title=""
 #EXTINF:-1 tvg-logo="" group-title="" 
