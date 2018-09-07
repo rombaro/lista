@@ -78,8 +78,10 @@ http://cdn.widestream.io:8080/hls/maus2nt.m3u8?s=Z1Unpwa8w7NEUOxhd4THAg&e=153627
 http://185.216.140.53:8088/live/Sportvonline30/playlist.m3u8?id=32772&wowzasessionid=3457886064&pk=252257700745d30275b0f2420606a651d6bb896404971e28d37541a468f4e5b2
 #EXTINF:-1 tvg-logo="" group-title="Tv",tnt
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/65.m3u8
-#EXTINF:-1 tvg-logo="" group-title=""
-#EXTINF:-1 tvg-logo="" group-title="" 
+#EXTINF:-1 tvg-logo="" group-title="Tv",telecine pipoca
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/49.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv",Telecine Premium
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/48.m3u8
 #EXTINF:-1 tvg-logo="" group-title=""
 #EXTINF:-1 tvg-logo="" group-title="" 
 #EXTINF:-1 tvg-logo="" group-title=""
