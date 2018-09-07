@@ -122,6 +122,24 @@ http://5.189.138.26:25461/live/Palmeiras/Mundial2018/102.m3u8
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/115.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tv Infatil",Cartoon Network
 http://cdn.widestream.io:8080/hls/maus2nt.m3u8?s=bJGZ4r6PVciOo8-ZLe4J0w&e=1536367606
+#EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere FC 2
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/36.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere FC 3
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/37.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere FC 4
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/38.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere FC 5
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/39.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere FC 6
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/40.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere FC 7
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/41.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere FC 8
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/42.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere FC 9
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/43.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere Clubes 
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/44.m3u8
 
 
 
