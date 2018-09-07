@@ -41,6 +41,7 @@ http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w1126142250.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES",Anjos da noite
 http://network.vstreaming.net/movies/anjosnoitesangue-dub-720p.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",tnt
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/65.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",telecine pipoca
@@ -140,6 +141,8 @@ http://5.189.138.26:25461/live/Palmeiras/Mundial2018/42.m3u8
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/43.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere Clubes 
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/44.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv Noticias",Globo News
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/97.m3u8
 
 
 
