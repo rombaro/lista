@@ -76,8 +76,8 @@ https://oqbki2.oloadcdn.net/dl/l/6_6pnla9tog2VwXw/IWAkvhvUFLY/Dia.De.Treinamento
 http://cdn.widestream.io:8080/hls/maus2nt.m3u8?s=Z1Unpwa8w7NEUOxhd4THAg&e=1536279907
 #EXTINF:-1 tvg-logo="" group-title="Tv",sportv
 http://185.216.140.53:8088/live/Sportvonline30/playlist.m3u8?id=32772&wowzasessionid=3457886064&pk=252257700745d30275b0f2420606a651d6bb896404971e28d37541a468f4e5b2
-#EXTINF:-1 tvg-logo="" group-title="Tv",telecine
-http://tvonlineaovivo.net/assistir-telecine-premium-ao-vivo/
+#EXTINF:-1 tvg-logo="" group-title="Tv",tnt
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/65.m3u8
 #EXTINF:-1 tvg-logo="" group-title=""
 #EXTINF:-1 tvg-logo="" group-title="" 
 #EXTINF:-1 tvg-logo="" group-title=""
