@@ -42,60 +42,82 @@ http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w1126142250.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILMES",Anjos da noite
 http://network.vstreaming.net/movies/anjosnoitesangue-dub-720p.mp4
  
-#EXTINF:-1 tvg-logo="https://filmesonlinehd1.net/wp-content/uploads/2018/08/wKugroGel7UUnM83Kcrn2afPTYB-1-185x278.jpg",No olho do furaçao
-https://www3760.playercdn.net/187/3/tcnKeWvsx9pCfL5TxZnnNQ/1536016950/180829/T33uV5WO2KKuMDK.mp4   
-#EXTINF:-1 tvg-logo="https://curtaiptv.top/BpbSe" group-title="LANÇAMENTO" ,OS INCRIVEIS 2
-http://network.vstreaming.net/movies/osincriveis2-dub-480p.mp4
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Esporte Interativo
-http://apk2.futeboltvgratis.com:8081/live/8/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Fox Sports
-http://apk2.futeboltvgratis.com:8081/live/4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv premiere
-http://apk2.futeboltvgratis.com#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sports 2
-http://apk2.futeboltvgratis.com:8081/live/15/chunks.m3u8:8081/live/20/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Fox Sportv 2
-http://apk2.futeboltvgratis.com:8081/live/5/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN BRAZIL
-http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN+
-http://apk2.futeboltvgratis.com:8081/live/3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",tnt
 
-
-#EXTINF:-1 tvg-logo="http://www.filmezando.com/wp-content/uploads/2018/06/3938254.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg" group-title="Filmes",Os Farofeiros
-http://network.vstreaming.net/movies/osfarofeiros-dub-720p.mp4
-
-#EXTINF:-1 tvg-logo="https://s3-sa-east-1.amazonaws.com/peperi/circulofogo23janeiro-5a73593c25c5e.jpg" group-title="Filmes" pltv-subgroup="LANÇAMENTOS 2018", Círculo de Fogo: A Revolta - 2018 Dublado
-http://network.vstreaming.net/movies/pacificrimnovo-dub1080p.mp4
-
-
-#EXTINF:-1 tvg-logo="https://www.assistirfilmeshd.me/timthumb.php?src=http://1.bp.blogspot.com/-ako3fH0bEW4/UcxKGCH6g_I/AAAAAAAAQrg/INAkaZFzeP0/s351/DIA+DE+TREINAMENTO.jpg&h=284&w=200" group-title="Filmes",Dia de trenamento
-https://oqbki2.oloadcdn.net/dl/l/6_6pnla9tog2VwXw/IWAkvhvUFLY/Dia.De.Treinamento.2001.720p.BRrip.Dub.mkv.mp4?mime=true
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png" group-title="Tv",cartoo
-http://cdn.widestream.io:8080/hls/maus2nt.m3u8?s=Z1Unpwa8w7NEUOxhd4THAg&e=1536279907
-#EXTINF:-1 tvg-logo="" group-title="Tv",sportv
-http://185.216.140.53:8088/live/Sportvonline30/playlist.m3u8?id=32772&wowzasessionid=3457886064&pk=252257700745d30275b0f2420606a651d6bb896404971e28d37541a468f4e5b2
-#EXTINF:-1 tvg-logo="" group-title="Tv",tnt
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/65.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tv",telecine pipoca
+#
+EXTINF:-1 tvg-logo="" group-title="Tv filmes",telecine pipoca
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/49.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tv",Telecine Premium
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/48.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tv",Hbo
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/54.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tv",Hbo2
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/55.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tv",Telecine Action
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/51.m3u8
-#EXTINF:-1 tvg-logo="" group-title="" 
-#EXTINF:-1 tvg-logo="" group-title=""
-#EXTINF:-1 tvg-logo="" group-title="" 
-#EXTINF:-1 tvg-logo="" group-title=""
-#EXTINF:-1 tvg-logo="" group-title="" 
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Telecine Premium
 
-#EXTINF:-1 tvg-logo="" group-title="" 
-#EXTINF:-1 tvg-logo="" group-title=""
-#EXTINF:-1 tvg-logo="" group-title="" 
-#EXTINF:-1 tvg-logo="" group-title=""
-#EXTINF:-1 tvg-logo="" group-title="" 
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/48.m3u8
+#
+EXTINF:-1 tvg-logo="" group-title="Tv filmes",Hbo
+
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/54.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Hbo2
+
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/55.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Telecine Action
+
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/51.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Megapix
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/68.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Space
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/67.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Amc
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/69.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",AXN
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/70.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Universal
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/74.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Paramount
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/75.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Cinemax
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/76.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv Esporte",COMBATE
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/77.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Tnt series
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/66.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",MaxUp
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/80.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv variedade",VIVA
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/82.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Telecine fun
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/50.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Telecine Touch
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/52.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Telecine Cult
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/53.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Hbo Plus
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/56.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Hbo Family
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/57.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Fox
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/61.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Fox Life
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/64.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Tlc
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/71.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Studio
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/73.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv ",Multishow
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/86.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv ",Mtv
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/87.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv ",Globo Rj
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/1.m3u8
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/87.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv esporte ",Sportv
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/25.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv esporte ",Sportv 2
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/26.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv esporte ",Sportv 3
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/27.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv esporte ",FoxSports 2
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/29.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv esporte ",Dyscover
+http://5.189.138.26:25461/live/Palmeiras/Mundial2018/104.m3u8
