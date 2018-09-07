@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 type="playlist" , FILMES
+http://bit.ly/filmes-Rom
+#EXTINF:-1 type="playlist" , CANAIS
+http://bit.ly/Rom-Filmes
