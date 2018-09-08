@@ -1,4 +1,5 @@
 #EXTM3U
+#PLAYLISTV: pltv-logo="https://i2.wp.com/iloveiptv.info/wp-content/uploads/2017/01/icon.png?fit=500%2C500&ssl=1" pltv-name="RomanoTv"
 #EXTINF:-1 type="playlist" , FILMES
 http://bit.ly/filmes-Rom
 #EXTINF:-1 type="playlist" , CANAIS
