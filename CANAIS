@@ -1,4 +1,5 @@
 #EXTM3U
+#PLAYLISTV: pltv-logo="https://http2.mlstatic.com/tv-box-mxq-kodi-iptv-mais-de-1000-canais-configuradosfilmes-D_NQ_NP_333525-MLB25440129872_032017-O.jpg" pltv-name="CANAIS TV"
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",tnt
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/65.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",telecine pipoca
