@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1, ROMANO TV
+#EXTINF:-1 tvg-logo="" group-title="FILME",[COLOR yellow] > > > Terro e Suspense < < <[/COLOR]
+
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/3/v6/z1zlf_tnl_210x118.jpg?ts=20140530223429", O Ritual (2012)
+http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/y/n6/ty2lf_tnl_210x118.jpg?ts=20150325000851", Menina Ma.com
+http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/x/n6/oy2lf_tnl_210x118.jpg?ts=20150325003622", O Contrato
+http://media-br-am.crackle.com/1/x/n6/oy2lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/u/56/rv1lf_tnl_210x118.jpg?ts=20141111004527", A Janela Secreta
+http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/5/16/qp1lf_tnl_210x118.jpg?ts=20140710001508",Segundas Intencoes 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/o/yl/49ayb_tnl_210x118.jpg?ts=20140406185151",Na Companhia Do Medo
+http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/w/il/r46wb_tnl_250x141.jpg?ts=20140406030608",O Codigo Da Vinci
+http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/k/j6/uwulf_tnl_250x141.jpg?ts=20140405082848",Rios Vermelhos
+http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/y/56/bw1lf_tnl_250x141.jpg?ts=20140930164826",Sem Vestigios
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/t/kl/otbyb_tnl_250x141.jpg?ts=20140406232025",Desejo a Tres
+http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/3/sm/epfyb_tnl_210x118.jpg?ts=20140826224642",Red Corner
+http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://static.cineclick.com.br/sites/adm/uploads/banco_imagens/53/260x365_519ebc2d95586.jpg",Comportamento Suspeito
+http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://br.web.img3.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/94/02/14/20296120.jpg",Mulher Solteira Procura
+http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://portal.julund.com.br/wp-content/uploads/2010/07/Quando-um-Estranho-Chama.jpg",Quando um Estranho Chama
+http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://bocadoinferno.com/wp-content/uploads/2013/08/Estrada-Maldita-2007-4.jpg",Estrada Maldita
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2014/01/Lenda-Urbana-3-2005-5.jpg",Lenda Urbana 3 - A Vinganca de Mary
+http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://upload.wikimedia.org/wikipedia/en/8/8e/Stigmata_film.jpg",Stigmata
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/thumb/b/bd/Quarantineposter.jpg/200px-Quarantineposter.jpg",Quarentena
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://www.gazetasetelagoana.com.br/wp-content/uploads/2011/07/identidade.jpg",Identidade
+http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://pipocacombo.com/wp-content/uploads/2012/01/A-beira-do-Abismo-331x480.jpg",A Beira do Abismo
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://cdn.fstatic.com/public/movies/covers/2012/08/thumbs/c70156bb5addc6ac3cdc57d3a691c7b3_jpg_290x478_upscale_q90.jpg",Amar, Trair e Roubar
+http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://thayjustin.files.wordpress.com/2010/04/cativeiro1.jpg",Cativeiro
+http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://www.pluhma.com/locadora/capas/6289.jpg",Corpo em Evidencia
+http://media-br-am.crackle.com/1/j/16/97wlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/7/sl/udcyb_tnl_210x118.jpg?ts=20130429233115",Enquanto Ela Estiver Fora
+http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://www.blogsoestado.com/emcartaz/files/2012/10/Estranha.jpg",Estranha Obsessao
+http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/k/4l/8wcyb_tnl_210x118.jpg?ts=20130714165629",Hotel Ruanda
+http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images.quebarato.com.br/T440x/filme+malicia+jequie+ba+brasil__6FFD2D_1.jpg",Malicia
+http://media-br-am.crackle.com/1/o/im/urdyb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/e/am/3bdyb_tnl_210x118.jpg?ts=20130828194004",Sociedade Feroz
+http://media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2zY47I5" group-title="TERROR e SUSPENSE",PERIGO EM ALTO MAR
+http://network.vstreaming.net/movies/perigoaltomar-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2L0fxjE" group-title="TERROR e SUSPENSE",A MORTE DO DEMONIO
+http://network.vstreaming.net/movies/amortedodemonio-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2L5Dmqj" group-title="TERROR e SUSPENSE",PANICO NA ESCOLA
+http://network.vstreaming.net/movies/paniconaescola-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2L6INoY" group-title="TERROR e SUSPENSE",MAMA
+http://network.vstreaming.net/movies/mama-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2mm75wq" group-title="TERROR e SUSPENSE",A NOITE DOS MORTOS VIVOS
+http://network.vstreaming.net/movies/mortosvivos-dub-480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2yX5Nky" group-title="TERROR e SUSPENSE",JOGOS MORTAIS 2
+http://network.vstreaming.net/movies/jogosmortais2-leg-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2yLhVW1" group-title="TERROR e SUSPENSE",INFERNO
+http://network.vstreaming.net/movies/inferno-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2yCcyYX" group-title="TERROR e SUSPENSE",O HOMEM NAS TREVAS
+http://network.vstreaming.net/movies/ohomemnastrevas-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2ysxLoa" group-title="TERROR e SUSPENSE",QUANDO AS LUZES SE APAGAM
+http://network.vstreaming.net/movies/luzesseapagam-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2tzf2kW" group-title="TERROR e SUSPENSE",A INVOCACAO DO MAL
+http://network.vstreaming.net/movies/invocacaodomal-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2LRnML2" group-title="TERROR e SUSPENSE",A INVOCACAO DO MAL 2
+http://network.vstreaming.net/movies/iinvocacaomal2-dub-480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2JDcCZG" group-title="TERROR e SUSPENSE",TERRA SELVAGEM
+http://network.vstreaming.net/movies/terraselvagem-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2JSVxhP" group-title="TERROR e SUSPENSE",ADVOGADO DO DIABO
+http://network.vstreaming.net/movies/advogadododiabo-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IHG9UO" group-title="TERROR e SUSPENSE",JOGOS MORTAIS:JIGSAW
+http://network.vstreaming.net/movies/jigsaw-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IgfBXf" group-title="TERROR e SUSPENSE",O RITUAL
+http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2KCGBBG" group-title="TERROR e SUSPENSE",MENINA MA
+http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rCvuAQ" group-title="TERROR e SUSPENSE",NA COMPANHIA DO MEDO
+http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2jR0gBT" group-title="TERROR e SUSPENSE",COMPORTAMENTO SUSPEITO
+http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IbMx2R" group-title="TERROR e SUSPENSE",QUANDO UM ESTRANHO CHAMA
+http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rCQt5V" group-title="TERROR e SUSPENSE",ESTRADA MALDITA
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2I8tSsY" group-title="TERROR e SUSPENSE",O CODIGO DA VINCI
+http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2KfExyE" group-title="TERROR e SUSPENSE",RIOS VERMELHOS
+http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2I86yLX" group-title="TERROR e SUSPENSE",SEM VESTIGIOS
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2Ih6ntB" group-title="TERROR e SUSPENSE",LENDA URBANA 3
+http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2Ih6ntB" group-title="TERROR e SUSPENSE",STIGMATA
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2KWj2E7" group-title="TERROR e SUSPENSE",QUARENTENA
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2wv09ow" group-title="TERROR e SUSPENSE",IDENTIDADE
+http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2jNAfDo" group-title="TERROR e SUSPENSE",AMAR TRAIR E ROUBAR
+http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2Kfzuy2" group-title="TERROR e SUSPENSE",CATIVEIRO
+http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2KeQl44" group-title="TERROR e SUSPENSE",ENQUANTO ELA ESTA FORA
+http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rA7YVe" group-title="TERROR e SUSPENSE",A VOLTA DOS MORTOS VIVOS
+http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rDoVgv" group-title="TERROR e SUSPENSE",FIDO O MASCOTE
+http://media-br-am.crackle.com/1/y/d6/40vlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2Ig5TIc" group-title="TERROR e SUSPENSE",PROVAS E TRAPACAS
+http://media-br-am.crackle.com/1/x/z6/msvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2Gef85Q" group-title="TERROR e SUSPENSE",SOB SUSPEITA
+http://media-br-am.crackle.com/1/_/x6/36wlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2wIxs7E" group-title="TERROR e SUSPENSE",O APRENDIZ
+http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IhpAvc" group-title="TERROR e SUSPENSE",GAROTAS SELVAGENS 4
+http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IjkHlE" group-title="TERROR e SUSPENSE",SEDUTORA E DIABOLICA
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2KWQBWR" group-title="TERROR e SUSPENSE",12 HORAS
+http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IhqXtW" group-title="TERROR e SUSPENSE",8 MILIMETROS
+http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2jTvxUL" group-title="TERROR e SUSPENSE",8 MILIMETROS 2
+http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rDrm3E" group-title="TERROR e SUSPENSE",COISAS BELAS E SUJAS
+http://media-br-am.crackle.com/1/4/d6/o4vlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2jVq2VC" group-title="TERROR e SUSPENSE",FEMME FATALE
+http://media-br-am.crackle.com/1/c/16/e7wlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2KkFdms" group-title="TERROR e SUSPENSE",INOCENTE OU CULPADO
+http://media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2jV4OqZ" group-title="TERROR e SUSPENSE",LUTA PELA LIBERDADE
+http://media-br-am.crackle.com/1/q/d6/62vlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2wCYTjf" group-title="TERROR e SUSPENSE",MARCAS DO PASSADO
+http://media-br-am.crackle.com/1/g/z6/ntvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rFyOeJ" group-title="TERROR e SUSPENSE",SEDUCAO FATAL
+http://media-br-am.crackle.com/1/w/z6/hsvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IlIFNb" group-title="TERROR e SUSPENSE",PREMONICOES
+http://media-br-am.crackle.com/1/x/n6/qy2lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2wFeRJK" group-title="TERROR e SUSPENSE",A ULTIMA PROFECIA
+http://media-br-am.crackle.com/1/z/n6/zy2lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2jT2S24" group-title="TERROR e SUSPENSE",O INQUILINO
+http://media-br-am.crackle.com/1/c/n6/b7ulf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2wDoFnt" group-title="TERROR e SUSPENSE",EU SEI QUEM ME MATOU
+http://media-br-am.crackle.com/1/z/f6/96ylf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2GcZKqv" group-title="TERROR e SUSPENSE",O TANGO E O ASSASSINO
+http://media-br-am.crackle.com/1/j/sl/4acyb_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IzaPHP" group-title="TERROR e SUSPENSE",OS MENSAGEIROS
+http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2GdA3pP" group-title="TERROR e SUSPENSE",TURISTAS
+http://media-br-am.crackle.com/1/q/r6/b22lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IGFbIx" group-title="TERROR e SUSPENSE",O ALBERGUE
+http://media-br-am.crackle.com/1/i/56/hr1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2wJaKwa" group-title="TERROR e SUSPENSE",O ALBERGUE 2
+http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2jX6aBs" group-title="TERROR e SUSPENSE",JOVENS BRUXAS
+http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2wDk3hs" group-title="TERROR e SUSPENSE",A MORTE DO DEMONIO
+http://media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2KYhFov" group-title="TERROR e SUSPENSE",LENDA URBANA 2
+http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rHdULb" group-title="TERROR e SUSPENSE",SILENT HILL:REVELACAO
+http://media-br-am.crackle.com/1/j/r6/efvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rFYeJf" group-title="TERROR e SUSPENSE",O GRITO 2
+http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2ICeFzT" group-title="TERROR e SUSPENSE",CHRISTINE
+http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2wD95IB" group-title="TERROR e SUSPENSE",BRINQUEDO ASSASSINO
+http://media-br-am.crackle.com/1/t/am/uddyb_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2ImsHSY" group-title="TERROR e SUSPENSE",KALIFORNIA
+http://media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2ImDsnZ" group-title="TERROR e SUSPENSE",NAO ADIANTA FUGIR
+http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IhbQAN" group-title="TERROR e SUSPENSE",O PRINCIPAL SUSPEITO
+http://media-br-am.crackle.com/1/u/h6/z7vlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2IEabsw" group-title="TERROR e SUSPENSE",REC
+http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2wNTF4D" group-title="TERROR e SUSPENSE",TENTACULOS
+http://media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2wEvh59" group-title="TERROR e SUSPENSE",VESTIDA PARA MATAR
+http://media-br-am.crackle.com/1/p/v6/ekvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2rFohQt" group-title="TERROR e SUSPENSE",SUPERNOVA
+http://media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2Iy6mFl" group-title="TERROR e SUSPENSE",EXISTENZ
+http://media-br-am.crackle.com/1/u/d6/m3vlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2Gd6818" group-title="TERROR e SUSPENSE",FANTASMAS DE MARTE
+http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2KmDgWG" group-title="TERROR e SUSPENSE",CRASH:NO LIMITE
+http://media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2KhDcao" group-title="TERROR e SUSPENSE",CACADA SEM TREGUAS
+http://media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://bit.ly/2Kkppjr" group-title="TERROR e SUSPENSE",O COLECIONADOR DE OSSOS
+http://media-br-am.crackle.com/1/f/f6/14ylf_480p.mp4
