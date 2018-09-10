@@ -1,8 +1,11 @@
 #EXTM3U
-#PLAYLISTV: pltv-logo="https://i2.wp.com/iloveiptv.info/wp-content/uploads/2017/01/icon.png?fit=500%2C500&ssl=1" pltv-name="RomanoTv"
-#EXTINF:-1 tvg-logo="http://mecagames.com.br/wp-content/uploads/2016/09/Filmes-Cine-Meca-768x615.png" type="playlist" , FILMES
+#PLAYLISTV: tvg-logo="https://i2.wp.com/iloveiptv.info/wp-content/uploads/2017/01/icon.png?fit=500%2C500&ssl=1" pltv-name="RomanoTv"
+
+#EXTINF:-1 tvg-logo="http://mecagames.com.br/wp-content/uploads/2016/09/Filmes-Cine-Meca-768x615.png" type="playlist" , Filmes
 http://bit.ly/filmes-Rom
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2A4lcCbILGg/hqdefault.jpg" type="playlist" , CANAIS
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/lista-de-iptv-premium-canais-tv-30-dias-envio-imediato-D_NQ_NP_754980-MLB26403844332_112017-F.jpg" type="playlist" , Canais
 http://bit.ly/Rom-Filmes
-#EXTINF:-1 tvg-logo=""type="playlist" , Series
+
+#EXTINF:-1 tvg-logo="http://mecagames.com.br/wp-content/uploads/2016/09/Filmes-Cine-Meca-768x615.png" type="playlist" , Series
 http://bit.ly/VDSERIES
