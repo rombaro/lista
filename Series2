@@ -3,6 +3,7 @@
 #PLAYLISTV: pltv-logo="" pltv-name="RomanoTv"
 
 #EXTINF:-tvg-logo="https://http2.mlstatic.com/filmes-lancamento-em-hd-720p-D_NQ_NP_610956-MLB27028319040_032018-F.jpg" type="playlist" , Lançamento
+#EXTINF:-1 tvg-logo="" type="playlist",Lançamento
 http://bit.ly/Lançamento_vd
 
 #EXTINF:-1 tvg-logo="" type="playlist" , Acão
