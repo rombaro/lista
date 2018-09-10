@@ -7,8 +7,8 @@ http://bit.ly/filmes-Rom
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/lista-de-iptv-premium-canais-tv-30-dias-envio-imediato-D_NQ_NP_754980-MLB26403844332_112017-F.jpg" type="playlist" , Canais
 http://bit.ly/Rom-Filmes
 
-#EXTINF:-1 tvg-logo="http://mecagames.com.br/wp-content/uploads/2016/09/Filmes-Cine-Meca-768x615.png" type="playlist" , Series
-http://bit.ly/VDSERIES
+#EXTINF:-1 tvg-logo="http://mecagames.com.br/wp-content/uploads/2016/09/Filmes-Cine-Meca-768x615.png" type="playlist" , Youtobe
+http://bit.ly/Youtube_vado
 
 
 #EXTINF:-1 tvg-logo="http://images.tcdn.com.br/img/img_prod/461859/radio_antigo_retro_companheiro_itamarati_faixas_3_faixas_oc_fm_e_am_crmif_31_2_1_20161206193539.jpg" type="playlist" ,Radios
