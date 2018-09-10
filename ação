@@ -1,4 +1,6 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="FILME",[COLOR yellow] > > > ACAO< < <[/COLOR]
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2A7jmym" group-title="ACAO",BATMAN BEGINS
 http://network.vstreaming.net/movies/batmanbegins-dub-720p.mp4
