@@ -1,0 +1,11 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="" pltv-name="RomanoTv"
+#EXTINF:-1 type="playlist" , Lançamento
+
+#EXTINF:-1 type="playlist" , Acão
+http://bit.ly/filmes-Rom
+#EXTINF:-1 type="playlist" , Aventura
+http://bit.ly/Rom-Filmes
+#EXTINF:-1 type="playlist" , Terro e Suspence
+
+#EXTINF:-1 type="playlist" , Infantil
