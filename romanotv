@@ -2,7 +2,7 @@
 #PLAYLISTV: pltv-logo="https://i2.wp.com/iloveiptv.info/wp-content/uploads/2017/01/icon.png?fit=500%2C500&ssl=1" pltv-name="RomanoTv"
 #EXTINF:-1 tvg-logo="http://mecagames.com.br/wp-content/uploads/2016/09/Filmes-Cine-Meca-768x615.png" type="playlist" , FILMES
 http://bit.ly/filmes-Rom
-#EXTINF:-1 pltv-logo="https://i.ytimg.com/vi/2A4lcCbILGg/hqdefault.jpg" type="playlist" , CANAIS
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2A4lcCbILGg/hqdefault.jpg" type="playlist" , CANAIS
 http://bit.ly/Rom-Filmes
-#EXTINF:-1 type="playlist" , Series
+#EXTINF:-1 tvg-logo=""type="playlist" , Series
 http://bit.ly/VDSERIES
