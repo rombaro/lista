@@ -2,16 +2,16 @@
 #PLAYLISTV: pltv-logo="https://http2.mlstatic.com/tv-box-mxq-kodi-iptv-mais-de-1000-canais-configuradosfilmes-D_NQ_NP_333525-MLB25440129872_032017-O.jpg" pltv-name="CANAIS TV"
 
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",tnt
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/65.m3u8
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/65.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Telecine Action
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/51.m3u8
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/51.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",telecine pipoca
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/49.m3u8
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/49.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Telecine Premium
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/48.m3u8
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/48.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Hbo
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/54.m3u8
@@ -48,76 +48,112 @@ http://5.189.138.26:25461/live/Palmeiras/Mundial2018/76.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tv Esporte",COMBATE
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/77.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Tnt series
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/66.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",MaxUp
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/80.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv variedade",VIVA
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/82.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Telecine fun
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/50.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Hbo Plus
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/56.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Hbo Family
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/57.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Fox
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/61.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Fox Life
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/64.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Tlc
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/71.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Studio
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/73.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv ",Multishow
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/86.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv ",Mtv
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/87.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv ",Globo Rj
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/1.m3u8
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/87.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv esporte ",Sportv
 https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/25.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv esporte ",Sportv 2
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/26.m3u8
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/26.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv esporte ",Sportv 3
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/27.m3u8
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/27.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tv esporte ",FoxSports
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/28.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv esporte ",FoxSports 2
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/29.m3u8
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/29.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Ducumentario ",Dyscover
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/104.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Ducumentario ",Nat Geo Wild
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/113.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Ducumentario",Nat Geo Wild
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/112.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Ducumentario",H2
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/103.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Ducumentario",History
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/102.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Ducumentario",Investigação Discovery
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/115.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Infatil",Cartoon Network
 http://cdn.widestream.io:8080/hls/maus2nt.m3u8?s=bJGZ4r6PVciOo8-ZLe4J0w&e=1536367606
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere FC 2
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/36.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere FC 3
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/37.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere FC 4
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/38.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere FC 5
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/39.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere FC 6
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/40.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere FC 7
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/41.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere FC 8
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/42.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere FC 9
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/43.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Esporte",Premiere Clubes 
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/44.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Noticias",Globo News
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/97.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv Noticias",Nat Geo Kids
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/114.m3u8
 
