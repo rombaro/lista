@@ -13,20 +13,29 @@ https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/49.m
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Telecine Premium
 https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/48.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Telecine fun
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/50.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Telecine Touch
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/52.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Hbo
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/54.m3u8
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/54.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Hbo2
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/55.m3u8
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/55.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Hbo Family
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/57.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Hbo Signature
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/58.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Megapix
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/68.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Space
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/67.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Telecine Touch
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/52.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Telecine Cult
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/53.m3u8
@@ -55,11 +64,11 @@ http://5.189.138.26:25461/live/Palmeiras/Mundial2018/66.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",MaxUp
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/80.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tv variedade",VIVA
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/82.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Max Prime 
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/79.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tv filmes",Telecine fun
-http://5.189.138.26:25461/live/Palmeiras/Mundial2018/50.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Tv variedade",VIVA
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/80.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Hbo Plus
 http://5.189.138.26:25461/live/Palmeiras/Mundial2018/56.m3u8
