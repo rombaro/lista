@@ -1,6 +1,9 @@
 #EXTM3U
 #PLAYLISTV: pltv-logo=" https://s3-sa-east-1.amazonaws.com/projetos-artes/fullsize%2F2016%2F11%2F30%2F14%2FLogo-199302_10365_143202836_550183224.jpg" pltv-name="FILMES"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1lBeQXTfqAbNhn576ceZ0yq2aHB.jpg" group-title="Filmes",Fala serio mae
+https://edge12.streamguard.cc/sec/1537585799/3831363845ff1aac33adfbfbd102ef8812190d91823f2b00/ivs/47/8e/87bc667cd75c/hls/tracks-2,4/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/04/images-31-203x300.jpg" group-title="Filmes",Jogador Nº1
 http://network.vstreaming.net/movies/jogadornumeroum-dub-720p.mp4
 
