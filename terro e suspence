@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTINF:-1, ROMANO TV
-#EXTINF:-1 tvg-logo="" group-title="FILME",[COLOR yellow] > > > Terro e Suspense < < <[/COLOR]
 
+#EXTINF:-1 tvg-logo="https://www.cinefilmeshd.net/wp-content/uploads/2018/09/a-noite-devorou-o-mundo.jpg" group-title="TERROR e SUSPENSE",A noite devorou o mundo
+https://www3763.playercdn.net/187/0/IneF7pKA-NCLHDJok98XQQ/1538865007/180912/824FV7C220L18P67C1CYV.mp4
+ 
 #EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/3/v6/z1zlf_tnl_210x118.jpg?ts=20140530223429", O Ritual (2012)
 http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
 #EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/y/n6/ty2lf_tnl_210x118.jpg?ts=20150325000851", Menina Ma.com
