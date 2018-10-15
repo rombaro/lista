@@ -1,7 +1,5 @@
 #EXTM3U
-#PLAYLISTV: pltv-logo="https://http2.mlstatic.com/tv-box-mxq-kodi-iptv-mais-de-1000-canais-configuradosfilmes-D_NQ_NP_333525-MLB25440129872_032017-O.jpg" pltv-name="CANAIS TV"
-
-
+ 
 #EXTINF:-1 tvg-logo="" group-title="Tv filmes",Telecine Action
 https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/51.m3u8
 
@@ -115,6 +113,12 @@ https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/28.m
 
 #EXTINF:-1 tvg-logo="" group-title="Tv esporte ",FoxSports 2
 https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/29.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tv esporte ",Espn Brasil
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/32.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tv esporte ",Espn  
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/30.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tv Ducumentario ",Discovery Channel 
 https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/104.m3u8
